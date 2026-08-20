@@ -9,16 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Computer Science Ph.D. student at the **University of Illinois Urbana-Champaign (UIUC)**, where I am fortunate to be co-advised by Prof. [Yiling Lou](https://yilinglou.github.io/) and Prof. [Lingming Zhang](https://lingming.cs.illinois.edu/). 
+I am a first-year Ph.D. student in Computer Science at the **University of Illinois Urbana-Champaign (UIUC)**, where I am fortunate to be co-advised by Prof. [Yiling Lou](https://yilinglou.github.io/) and Prof. [Lingming Zhang](https://lingming.cs.illinois.edu/).
 
 My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, with a particular focus on:
-* **Code LLMs & Code Intelligence**
-* **LLM-based Autonomous Agents**
-* **Automating & Optimizing Software Engineering Processes**
+* **LLM-based Autonomous Software Agents:** Developing reliable agentic workflows, interactive developer tools, and robust evaluation harnesses for end-to-end software automation.
+* **Code Intelligence & Foundation Models:** Investigating how Large Language Models understand and reason over code semantics, repository-level context, and code modifications.
+* **Automated Software Quality & Security:** Enhancing software reliability and security through AI-driven vulnerability detection, just-in-time defect prediction, testing, and program repair.
 
-I am broadly passionate about exploring how Large Language Models and AI agents can make software development and maintenance more efficient, reliable, and automated.
-
-Prior to joining UIUC, I received my M.S. in Computer Science from KAIST, where I was advised by Prof. Jongmoon Baik, and my B.S. from Kyungpook National University.
+Prior to joining UIUC, I received my M.S. in Computer Science from **KAIST**, where I was advised by Prof. Jongmoon Baik, and my B.S. in Computer Science and Engineering from **Kyungpook National University**.
 
 ## News
 * **[Aug 2026]** Started my Ph.D. journey at **UIUC**!

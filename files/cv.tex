@@ -1,0 +1,106 @@
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.75in, top=0.65in, bottom=0.65in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+% Hyperlink configuration
+\definecolor{primary}{RGB}{15, 76, 129}      % Academic Navy Blue
+\definecolor{accent}{RGB}{180, 83, 9}        % Distinguished Amber/Gold
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=primary,
+    urlcolor=primary,
+    citecolor=primary,
+    pdftitle={Doha Nam - Curriculum Vitae},
+    pdfauthor={Doha Nam}
+}
+
+% Section formatting
+\titleformat{\section}
+  {\large\bfseries\color{primary}\uppercase}
+  {}{0em}
+  {}[\vspace{-0.45em}\rule{\textwidth}{0.75pt}\vspace{-0.2em}]
+
+\titlespacing*{\section}{0pt}{13pt}{7pt}
+
+% Tight lists
+\setlist[itemize]{leftmargin=1.2em, itemsep=3pt, topsep=2pt}
+
+\pagestyle{empty}
+
+\begin{document}
+
+% -------------------- HEADER --------------------
+\begin{center}
+    {\LARGE \textbf{Doha Nam}}\\[0.4em]
+    {\small Ph.D. Student in Computer Science $\,\vert\,$ University of Illinois Urbana-Champaign (UIUC)}\\[0.35em]
+    {\small
+        \href{mailto:dohanam2@illinois.edu}{dohanam2@illinois.edu} $\quad\vert\quad$
+        \href{https://waroad.github.io}{waroad.github.io} $\quad\vert\quad$
+        \href{https://scholar.google.com/citations?user=eQ4Wo08AAAAJ}{Google Scholar}
+    }
+\end{center}
+\vspace{-0.3em}
+
+% -------------------- RESEARCH INTERESTS --------------------
+\section{Research Interests}
+\vspace{0.1em}
+\noindent
+\textbf{Software Engineering (SE)} and \textbf{Artificial Intelligence (AI)}, with a particular focus on:
+\begin{itemize}[itemsep=2.5pt, topsep=3pt]
+    \item \textbf{LLM-based Autonomous Software Agents:} Developing reliable agentic workflows, interactive developer environments, and robust evaluation harnesses/benchmarks for end-to-end software automation.
+    \item \textbf{Code Intelligence \& Foundation Models:} Investigating how Large Language Models represent and reason over complex code dynamics, code modifications, and change semantics.
+    \item \textbf{Automated Software Quality \& Security:} Applying AI and agentic systems to automated vulnerability detection, defect prediction, software testing, and program repair.
+\end{itemize}
+
+% -------------------- EDUCATION --------------------
+\section{Education}
+
+\noindent
+\textbf{University of Illinois Urbana-Champaign (UIUC)} \hfill Urbana, IL, USA\\
+\textit{Ph.D. Student in Computer Science} \hfill \textit{Aug. 2026 -- Present}\\
+\null\quad $\bullet$ Co-advised by Prof. \href{https://yilinglou.github.io/}{Yiling Lou} and Prof. \href{https://lingming.cs.illinois.edu/}{Lingming Zhang}
+
+\vspace{0.6em}
+\noindent
+\textbf{Korea Advanced Institute of Science and Technology (KAIST)} \hfill Daejeon, South Korea\\
+\textit{M.S. in Computer Science} \hfill \textit{Mar. 2024 -- Feb. 2026}\\
+\null\quad $\bullet$ Advisor: Prof. Jongmoon Baik
+
+\vspace{0.6em}
+\noindent
+\textbf{Kyungpook National University} \hfill Daegu, South Korea\\
+\textit{B.S. in Computer Science and Engineering} \hfill \textit{Mar. 2018 -- Feb. 2024}
+
+% -------------------- PUBLICATIONS --------------------
+\section{Publications}
+\vspace{0.2em}
+
+\noindent
+\textbf{[FSE 2026]} \textbf{Doha Nam}, Taehyoun Kim, Duksan Ryu, and Jongmoon Baik.\\
+\null\quad ``\textbf{ReDef: Do Code Language Models Truly Understand Code Changes for Just-in-Time Software}\\
+\null\quad \textbf{Defect Prediction?}''\\
+\null\quad \textit{ACM International Conference on the Foundations of Software Engineering (FSE 2026)}, 2026.
+
+\vspace{0.65em}
+\noindent
+\textbf{[ASE 2025]} \textbf{Doha Nam} and Jongmoon Baik.\\
+\null\quad ``\textbf{LOSVER: Line-Level Modifiability Signal-Guided Vulnerability Detection and Classification}''\\
+\null\quad \textit{IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)}, 2025.\\
+\null\quad \textcolor{accent}{\textbf{$\star$ ACM SIGSOFT Distinguished Paper Award}}
+
+% -------------------- AWARDS & HONORS --------------------
+\section{Awards \& Honors}
+\begin{itemize}[itemsep=4pt, topsep=3pt]
+    \item \textbf{Outstanding M.S. Thesis Award}, Korea Advanced Institute of Science and Technology (KAIST) \hfill \textit{Feb. 2026}
+    \item \textbf{ACM SIGSOFT Distinguished Paper Award}, IEEE/ACM ASE 2025 \hfill \textit{Nov. 2025}
+\end{itemize}
+
+\end{document}
