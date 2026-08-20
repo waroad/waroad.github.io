@@ -6,15 +6,49 @@ author_profile: true
 ---
 
 <style>
+  /* 논문 카드 사이의 전체 구분 간격 */
   .list__item {
     margin-bottom: 2.2em !important;
     padding-bottom: 1.8em !important;
     border-bottom: 1px solid #eaeaea !important;
   }
+
+  /* 1. 논문 제목 상하 여백 최소화 */
   .archive__item-title {
-    margin-top: 0.2em !important;
-    margin-bottom: 0.4em !important;
+    margin-top: 0 !important;
+    margin-bottom: 0.2em !important;
     font-size: 1.15em !important;
+    line-height: 1.35 !important;
+  }
+
+  /* 2. 'Published in...' 문구 상하 여백 축소 */
+  .archive__item > p {
+    margin-top: 0 !important;
+    margin-bottom: 0.35em !important;
+    color: #555 !important;
+    font-size: 0.95em !important;
+    line-height: 1.4 !important;
+  }
+
+  /* 3. 저자, 링크, 수상 내역 단락 여백 축소 */
+  .archive__item-excerpt {
+    margin-top: 0 !important;
+    margin-bottom: 0.4em !important;
+    line-height: 1.45 !important;
+  }
+
+  .archive__item-excerpt p {
+    margin-top: 0 !important;
+    margin-bottom: 0.4em !important;
+    line-height: 1.45 !important;
+  }
+
+  /* 4. Abstract 제목 상하 여백 축소 */
+  .archive__item-excerpt h3 {
+    margin-top: 0.5em !important;
+    margin-bottom: 0.2em !important;
+    font-size: 0.98em !important;
+    font-weight: 700 !important;
   }
 </style>
 
