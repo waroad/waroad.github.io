@@ -14,11 +14,11 @@ I am a first-year Computer Science Ph.D. student at the **University of Illinois
 My research interests lie at the intersection of **Software Engineering (SE)** and **Artificial Intelligence (AI)**, with a particular focus on:
 * **Code LLMs & Code Intelligence**
 * **LLM-based Autonomous Agents**
-* **Automating & Optimizing Software Engineering Processes** (e.g., Software Defect/Vulnerability Detection, Automated Testing & Repair)
+* **Automating & Optimizing Software Engineering Processes**
 
 I am broadly passionate about exploring how Large Language Models and AI agents can make software development and maintenance more efficient, reliable, and automated.
 
-Prior to joining UIUC, I received my M.S. in Computer Science from KAIST, where I was advised by Jongmoon Baik, and my B.S. from Kyungpook National University.
+Prior to joining UIUC, I received my M.S. in Computer Science from KAIST, where I was advised by Prof. Jongmoon Baik, and my B.S. from Kyungpook National University.
 
 ## News
 * **[Aug 2026]** Started my Ph.D. journey at **UIUC**!
