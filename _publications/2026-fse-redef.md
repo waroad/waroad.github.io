@@ -3,7 +3,7 @@ title: "ReDef: Do Code Language Models Truly Understand Code Changes for Just-in
 collection: publications
 category: conferences
 permalink: /publication/2026-fse-redef
-date: 2026-07-01
+date: 2026-06-30
 venue: 'ACM International Conference on the Foundations of Software Engineering (FSE)'
 citation: 'Doha Nam, et al. "ReDef: Do Code Language Models Truly Understand Code Changes for Just-in-Time Software Defect Prediction?" In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2026).'
 ---
