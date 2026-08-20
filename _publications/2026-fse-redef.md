@@ -10,7 +10,6 @@ venue: 'ACM International Conference on the Foundations of Software Engineering 
 
 **Doha Nam**, Taehyoun Kim, Duksan Ryu, and Jongmoon Baik<br>
 [[ACM DL]](https://dl.acm.org/doi/10.1145/3808179) [[GitHub]](https://github.com/waroad/ReDef) [[Dataset&Code]](https://doi.org/10.6084/m9.figshare.30086968)
-
 <details class="abstract-toggle">
   <summary>[Abstract]</summary>
   <div class="abstract-box">
