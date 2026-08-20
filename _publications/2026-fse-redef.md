@@ -11,4 +11,4 @@ venue: 'ACM International Conference on the Foundations of Software Engineering 
 **Doha Nam**, Taehyoun Kim, Duksan Ryu, and Jongmoon Baik<br>
 [[ACM DL]](https://dl.acm.org/doi/10.1145/3808179) [[Code]](https://github.com/waroad/ReDef) [[Artifact/Figshare]](https://doi.org/10.6084/m9.figshare.30086968)
 ### Abstract
-We introduce **ReDef**, a high-confidence revert-based benchmark across 22 large-scale C/C++ projects, and systematically evaluate how Code LLMs reason about code modifications. Through counterfactual diagnostic probes, we reveal that current models rely heavily on superficial cues rather than genuinely comprehending the semantic dynamics of code changes.
+We introduce **ReDef**, a high-confidence revert-based benchmark across 22 large-scale C/C++ projects, and systematically evaluate how Code LLMs reason about code modifications. Through counterfactual probes, we reveal that current models rely heavily on superficial cues rather than genuinely comprehending the semantic dynamics of code changes.
