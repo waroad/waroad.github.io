@@ -28,7 +28,7 @@ author:
   bio              : "CS Ph.D. Student @ UIUC"
   location         : "Urbana, IL, USA"
   employer         : "UIUC"
-  uri              : "https://waroad.github.io"
+  # uri              : "https://waroad.github.io"
   email            : "dohanam2@illinois.edu"
 
   # Academic websites

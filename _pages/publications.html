@@ -13,25 +13,34 @@ author_profile: true
     border-bottom: 1.5px solid #cbd5e1 !important;
   }
 
-  /* 1. 논문 제목: 크기 조절 & 링크 클릭/호버 효과 완전 비활성화 */
+  /* 1. 논문 제목: 크기 설정 및 모든 Hover / 애니메이션 / 클릭 완벽 차단 */
   .archive__item-title {
     margin-top: 0 !important;
     margin-bottom: 0.25em !important;
     font-size: 1.04em !important;
     font-weight: 700 !important;
     line-height: 1.35 !important;
+    color: #1f2937 !important;
   }
 
-  .archive__item-title a {
+  /* 제목 태그 및 부모 요소 hover 시 발생하는 모든 효과(밑줄, 색상 변경, 그림자 등) 무효화 */
+  .archive__item-title,
+  .archive__item-title a,
+  .archive__item-title a:hover,
+  .archive__item-title a:focus,
+  .archive__item-title a:visited,
+  .archive__item:hover .archive__item-title,
+  .archive__item:hover .archive__item-title a,
+  .list__item:hover .archive__item-title,
+  .list__item:hover .archive__item-title a {
     color: #1f2937 !important;
     text-decoration: none !important;
-    pointer-events: none !important; /* 클릭 비활성화 */
-    cursor: default !important;        /* 마우스 커서 일반 텍스트로 고정 */
-  }
-
-  .archive__item-title a:hover {
-    color: #1f2937 !important;
-    text-decoration: none !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+    transform: none !important;
+    transition: none !important;
+    cursor: default !important;
+    pointer-events: none !important;
   }
 
   /* 2. 'Published in...' 문구 */
