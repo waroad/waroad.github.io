@@ -21,7 +21,7 @@ I am broadly passionate about exploring how Large Language Models and AI agents 
 Prior to joining UIUC, I received my M.S. in Computer Science from KAIST, where I was advised by Jongmoon Baik, and my B.S. from Kyungpook National University.
 
 ## News
-* **[Aug 2026]** Started my Ph.D. journey at UIUC!
-* **[Mar 2026]** Our paper *ReDef(https://dl.acm.org/doi/10.1145/3808179)* is accepted to **FSE 2026**!
-* **[Nov 2025]** Our paper *LOSVER(https://doi.org/10.1109/ASE63991.2025.00092)* received the **ACM SIGSOFT Distinguished Paper Award** at **ASE 2025**! 🏆
-* **[Aug 2025]** Our paper *LOSVER(https://doi.org/10.1109/ASE63991.2025.00092)* is accepted to **ASE 2025**!
+* **[Aug 2026]** Started my Ph.D. journey at **UIUC**!
+* **[Mar 2026]** Our paper **[ReDef](https://dl.acm.org/doi/10.1145/3808179)** is accepted to **FSE 2026**!
+* **[Nov 2025]** Our paper **[LOSVER](https://doi.org/10.1109/ASE63991.2025.00092)** received the **ACM SIGSOFT Distinguished Paper Award** at **ASE 2025**! 🏆
+* **[Aug 2025]** Our paper **[LOSVER](https://doi.org/10.1109/ASE63991.2025.00092)** is accepted to **ASE 2025**!
