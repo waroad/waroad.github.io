@@ -3,14 +3,12 @@ title: "LOSVER: Line-Level Modifiability Signal-Guided Vulnerability Detection a
 collection: publications
 category: conferences
 permalink: /publication/2025-ase-losver
-date: 2025-11-16
+date: 2025-10-01
 venue: 'IEEE/ACM International Conference on Automated Software Engineering (ASE)'
-paperurl: 'https://doi.org/10.1109/ASE63991.2025.00092'
 citation: 'Doha Nam, et al. "LOSVER: Line-Level Modifiability Signal-Guided Vulnerability Detection and Classification." In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025).'
 ---
 
-**Award:** 🏆 **ACM SIGSOFT Distinguished Paper Award**
-
+🏆 **ACM SIGSOFT Distinguished Paper Award**<br>
 [[IEEE Xplore]](https://doi.org/10.1109/ASE63991.2025.00092) [[Code]](https://github.com/waroad/losver) [[Dataset/Figshare]](https://doi.org/10.6084/m9.figshare.29192708)
 
 ### Abstract
